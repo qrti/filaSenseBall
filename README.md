@@ -14,6 +14,9 @@ loaded
 - **off**  
 runout
 
+### 3D print and schematic
+files are in the repository
+
 <br>
 
 ---
@@ -27,7 +30,8 @@ Mounted sensor
 <br>
 <br>
 
-To adapt to filament tension the sensor can be tilted, if smoothly printed a tilt angel up to 85 degree should be possible   
+To adapt to filament tension the sensor can be tilted   
+if smoothly printed a tilt angel up to 85 degree should be possible   
 <img src="images/view_02.jpg" width=640>
 <br>
 <br>
