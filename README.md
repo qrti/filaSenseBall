@@ -1,6 +1,6 @@
 # **Filament Runout Sensor with Steel Ball**
 
-Frictionless, reliable and simple filament runout detection.
+Low friction, reliable and simple filament runout detection.
 
 <br>
 
@@ -14,8 +14,10 @@ loaded
 - **off**  
 runout
 
-### 3D print and schematic
-files are in the repository
+### files
+files are in the repository   
+[-> 3d print](stl)
+[-> schematic](#schematic)
 
 <br>
 
