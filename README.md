@@ -5,10 +5,10 @@ Frictionless, reliable and simple filament runout detection.
 <br>
 
 ## Operation
-A steel ball drops into a light barrier if filament is running out. To reload filament a magnet is used to move the steel ball above the filament. 
+A steel ball (8 mm) rolls above the filament and drops into a light barrier if the filament runs out. To reload filament a magnet is used to lift the steel ball. A cap allows opening and cleaning.
 
 ### LED
-The filament state is indicated by a LED
+Filament state is indicated by a LED
 - **on**  
 loaded
 - **off**  
@@ -22,51 +22,49 @@ runout
 
 ## Views
 
-### Mounted sensor
+Mounted sensor   
 <img src="images/view_01.jpg" width=640>
 <br>
 <br>
 
-### Slightly tilted
-to follow filament tension the sensor can be tilted, if smoothly printed a tilt angel up to 85 degree is possible   
+To adapt to filament tension the sensor can be tilted, if smoothly printed a tilt angel up to 85 degree should be possible   
 <img src="images/view_02.jpg" width=640>
 <br>
 <br>
 
-### Mounting bracket
-a mounting bracket allows adjusting tilt and top angle   
+A mounting bracket allows adjusting tilt and top angle   
 <img src="images/view_03.jpg" width=640>
 <br>
 <br>
 
-### Steel ball and Light barrier
+Steel ball above light barrier   
 <img src="images/view_04.jpg" width=640>
 <br>
 <br>
 
 ## Renders
 
-### Front
+Front   
 <img src="images/render_01.png" width=640>
 <br>
 <br>
 
-### Side
+Side   
 <img src="images/render_02.png" width=640>
 <br>
 <br>
 
-### Light barrier cut in half
+Light barrier cut in half   
 <img src="images/render_03.png" width=640>
 <br>
 <br>
 
-### Steel ball above filament
+Steel ball above filament   
 <img src="images/render_04.png" width=640>
 <br>
 <br>
 
-### Steel ball dropped
+Steel ball dropped   
 <img src="images/render_05.png" width=640>
 <br>
 <br>
