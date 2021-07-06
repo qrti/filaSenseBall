@@ -1,6 +1,6 @@
 # **Filament Runout Sensor with Steel Ball**
 
-Low friction, reliable and simple filament runout detection.
+### Reliable and simple filament runout detection with low friction
 
 <br>
 
@@ -8,17 +8,19 @@ Low friction, reliable and simple filament runout detection.
 A steel ball (8 mm) rolls above the filament and drops into a light barrier if the filament runs out. To reload filament a magnet is used to lift the steel ball. A cap allows opening and cleaning.
 
 ### LED
-Filament state is indicated by a LED
+Filament state is indicated by LED
 - **on**  
 loaded
 - **off**  
 runout
 
 ### Assembly
-The two housing parts are printed flat sides down, with support enabled and about 20 % fill rate. Then they are glued together, with hard plastic or superglue and welded with a soldering iron (at about 200 °C for PLA). 
+The three housing parts are printed flat sides down with support enabled at about 20 % fill rate. The parts are now glued together with hard plastic glue or superglue and the seams welded with a soldering iron (at about 200 °C for PLA). The fork light barrier is cut in half and plugged into the housing bottom. A suitable piece of perforated or drilled PCB is soldered to the light barrier leads. The PCB might be screwed to the little holes on the housing bottom. Electronic components and printer connector are now soldered on the PCB.
 
 ### Files
 [-> 3d print](stl)   
+q5 prefix files are tailored for Flsun delta printer Q5
+
 [-> schematic](#schematic)
 
 <br>
