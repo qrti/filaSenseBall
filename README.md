@@ -15,7 +15,7 @@ loaded
 runout
 
 ### Assembly
-The two housing parts are printed flat sides on the heated bed, support enabled, about 20 % fill rate. Then they are glued together (hard plastic or superglue) and welded with a soldering iron (200 °C for PLA). 
+The two housing parts are printed flat sides on the heated bed, support enabled, about 20 % fill rate. Then they are glued together (with hard plastic or superglue) and welded with a soldering iron (200 °C for PLA). 
 
 ### Files
 [-> 3d print](stl)   
