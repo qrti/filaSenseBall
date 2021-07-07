@@ -23,6 +23,9 @@ q5 prefix files are tailored for Flsun delta printer Q5
 
 [-> schematic](#schematic)
 
+### Thingiverse
+https://www.thingiverse.com/thing:4902782
+
 <br>
 
 ---
