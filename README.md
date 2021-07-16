@@ -53,27 +53,27 @@ A mounting bracket allows adjusting tilt and top angle
 ## Renders
 
 Steel ball above filament   
-<img src="images/render_01.png" width=640>
+<img src="images/render_01.jpg" width=640>
 <br>
 <br>
 
 Steel ball dropped into light barrier   
-<img src="images/render_02.png" width=640>
+<img src="images/render_02.jpg" width=640>
 <br>
 <br>
 
 Bottom with light barrier halves   
-<img src="images/render_03.png" width=640>
+<img src="images/render_03.jpg" width=640>
 <br>
 <br>
 
 Front   
-<img src="images/render_04.png" width=640>
+<img src="images/render_04.jpg" width=640>
 <br>
 <br>
 
 Side   
-<img src="images/render_05.png" width=640>
+<img src="images/render_05.jpg" width=640>
 <br>
 <br>
 
@@ -87,4 +87,4 @@ Side
 
 ---
 
-[qrt@qland.de](mailto:qrt@qland.de) 210707
+[qrt@qland.de](mailto:qrt@qland.de) 210716
